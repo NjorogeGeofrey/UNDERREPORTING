@@ -35,4 +35,6 @@ Consistent bias in reported HIV cases, indicating a need for adjustment in estim
 Adjustments for underreporting are crucial for accurate population estimation.
 Consider integrating covariates into models and exploring alternative approaches for count data.
 
+### ACCESS FULL DOCUMENTATION AT:
+https://docs.google.com/document/d/1ixR44tqqQzXsOycl-l_nRV2fYm2FLZuS/edit?usp=sharing&ouid=111153347759861179193&rtpof=true&sd=true
 
